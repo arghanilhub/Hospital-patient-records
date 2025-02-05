@@ -1,2 +1,2 @@
 # Hospital-patient-records
-Analysis for Massachusetts General Hospital patient records from 2011-2022 -> using ( SQL &amp; Excel )
+Analysis conducted on synthetic data of approximately 1,000 patients from **Massachusetts General Hospital** records, covering the years 2011–2022.  
