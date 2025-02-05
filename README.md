@@ -29,9 +29,9 @@ Hospital leadership has identified several pressing concerns that require data-d
 
 * **Patient Flow –** Were there any specific years when patient admissions spiked based on any perticular health issue? Is there any re-admission trends? </br> 
 
-By uncovering key patterns in their patient records, holspital can make data-driven decisions for operational efficiency, financial planning, and future preparedness. My analysis will provide actionable insights, allowing them to : </br> 
+By uncovering key patterns in their patient records, hospital can make data-driven decisions for operational efficiency, financial planning, and future preparedness. My analysis will provide actionable insights, allowing them to : </br> 
 
 * Negotiate better deals with insurance companies. </br>
 * Analyzing critical threats for coming-days and resource planning based on that. </br>
 * Ensure adequate staffing and equipment availability for common medical procedures. </br>
-* re-admission with same issue, could indicate gaps in care; if different, it may suggest strong patient trust in the hospital. </br>
+* Re-admission with same issue, could indicate gaps in care; if different, it may suggest strong patient trust in the hospital. </br>
