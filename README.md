@@ -37,3 +37,14 @@ By uncovering key patterns in their patient records, hospital can make data-driv
 :white_check_mark: Analyzing critical threats for coming-days and resource planning based on that. </br>
 :white_check_mark: Ensure adequate staffing and equipment availability for common medical procedures. </br>
 :white_check_mark: Re-admission with same issue, could indicate gaps in care; if different, it may suggest strong patient trust in the hospital. </br>
+<br> 
+
+<h3>Data Structure</h3> 
+<hr> 
+
+The database consists of five interconnected tables categorized under healthcare, time series, and geospatial data. It contains detailed information on patient demographics, insurance coverage, medical encounters, and procedures recorded at Massachusetts General Hospital from 2011 to 2022. Each table captures a distinct aspect of hospital operations, allowing for comprehensive analysis. </br> 
+
+**Below is a breakdown of the data stored in each table:** </br> 
+
+**1. Encounters** </br> 
+The dataset contains **27,000 unique hospital visit (encounter) records** from 2011 to 2022. Each patient may have multiple encounters over time, with each visit recorded as a separate entry. The table includes **duration** of each encounter, along with **total claim amount** and **payer coverage amount** for every visit. The number of unique patients in the dataset is **974**.
