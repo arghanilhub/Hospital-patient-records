@@ -9,4 +9,14 @@ Analysis conducted on synthetic data of approximately 1,000 patients from **Mass
 * Data Structure </br> 
 * Executive Summary </br>
 * Detailed Findings </br>
-* Recommandations 
+* Recommandations </br>
+<br>
+
+<h3>Situation</h3> 
+<hr> 
+
+Massachusetts General Hospital has been observing a steady increase in patient admissions over the past decade, and hospital administrators are keen on understanding key trends in their **patient population**, **medical procedures**, and **insurance coverage**. As a data analyst, I have been brought in to conduct a deep dive into the hospital’s records from 2011 to 2022. </br> 
+<br>  
+
+**The Hospital’s Concern:** <br> 
+Hospital leadership has identified several pressing concerns that require data-driven insights:
