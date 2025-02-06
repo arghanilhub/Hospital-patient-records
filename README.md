@@ -52,7 +52,7 @@ The dataset contains **27,000 unique hospital visit (encounter) records** from 2
 **2. Procedures** </br> 
 This table records **procedures performed for each hospital encounter**. In a single visit, many different or same procedures have been performed, which are differentiated based on different days or hours of the day. Hence the total records in this table has **more than 44k**. It consist of issue(**46** unique procedure **reason**) for which that procedure has been performed and not all the procedures have reason/issue , which means they represent the critical issues. Base cost is also recorded for each distinct procedure, with some procedures having multiple base costs. While **no explicit primary key is defined**, unique records can be identified using a combination of :
 
-&nbsp; &nbsp; &nbsp; &nbsp;  >**encounter_id, start_day, start_time, and procedure_code**  </br>  
+&nbsp; &nbsp; &nbsp; &nbsp;  <blockquote>**encounter_id, start_day, start_time, and procedure_code**</blockquote>  </br>  
 
  **3. Patients** </br> 
 Total of **974 unique patient** records are being given aongwith their demographic details and all patient have its encounter-id. </br> 
