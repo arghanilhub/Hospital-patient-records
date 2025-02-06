@@ -62,3 +62,6 @@ Total **9 insurance company** data are being provided and each companies payer c
 
 **5. Organization** </br> 
 Here the hospital name and its location details are being provided. </br>  
+<br> 
+
+![hospital_erd](https://github.com/arghanilhub/Hospital-patient-records/blob/main/hospital_erd.png) 
