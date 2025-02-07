@@ -67,4 +67,17 @@ Here the hospital name and its location details are being provided. </br>
 ![hospital_erd](https://github.com/arghanilhub/Hospital-patient-records/blob/main/hospital_erd.png) </br> 
 <br>
 
-data source : [syntheticMass](https://synthea.mitre.org) 
+data source : [syntheticMass](https://synthea.mitre.org)  </br> 
+<br> 
+
+<h3>Executive Summary</h3>
+<hr>
+
+hjgdss </br> 
+<br> 
+
+<h3>Detailed findinds</h3>
+<hr> 
+
+**1. Procedure Cost VS Payer Coverage** </br> 
+
