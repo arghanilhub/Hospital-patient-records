@@ -81,6 +81,9 @@ hjgdss </br>
 
 **1. Procedure Cost  VS  Payer Coverage** </br> 
 <br>
-We have patient records linked to **9 different insurance companies**. Among them, I found that one or two companies stand out—not only because they cover the highest number of procedures performed at the hospital but also because they are the preferred choice for most patients. Interestingly, these insurers are primarily non-profit organizations operated by the government. </br> 
-
+We have patient records linked to **9 different insurance companies**. </br> 
+Among them, I found that one or two companies stand out—not only because they cover the **highest number of procedures** performed at the hospital but also because they are the **preferred choice** for most patients. Interestingly, these insurers are primarily non-profit organizations operated by the government. </br> 
+<br> 
+![payer_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payers.png) </br> 
+<br> 
 But based on the coverage percentage perspective : There r some payers who are not covering many procedures, plus patient opted them at very low but their coverage is quite full for almost all big critical issues and also vice-versa. we see that for 'Dual Eligible' -> patient favoring and procedures cover is at lowest end but their coverage percentage is almost full even for some large cost operation. but on the other hand - payer like United health care or Humana ( which r profit-based-organizations ) - people r opting them but I dont that they cover anything. Almost for max of issues I find NIL they cover.  
