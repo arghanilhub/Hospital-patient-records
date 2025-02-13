@@ -86,4 +86,9 @@ Among them, I found that one or two companies stand out—not only because they 
 <br> 
 ![payer_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payers.png) </br> 
 <br> 
+**1a. Medicare vs Medicaid** </br> 
+ <br> 
+* **While both payers cover the highest number of procedures, there is a noticeable difference in the number of patients opting for them**. Medicaid is designed as an assistance program for individuals below the poverty level, whereas Medicare primarily serves those aged 65+ or individuals with certain disabilities. **In our hospital records, Medicare accounts for the highest number of patients, specifically 103 patients who are all above 80+, whereas Medicaid has significantly fewer. This suggests that we see more older patients covered by Medicare compared to those below the poverty line who are covered by Medicaid**. </br> 
+
+
 But based on the coverage percentage perspective : There r some payers who are not covering many procedures, plus patient opted them at very low but their coverage is quite full for almost all big critical issues and also vice-versa. we see that for 'Dual Eligible' -> patient favoring and procedures cover is at lowest end but their coverage percentage is almost full even for some large cost operation. but on the other hand - payer like United health care or Humana ( which r profit-based-organizations ) - people r opting them but I dont that they cover anything. Almost for max of issues I find NIL they cover.  
