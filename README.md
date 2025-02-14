@@ -93,5 +93,10 @@ Among them, I found that one or two companies stand out—not only because they 
 * Both Medicare and Medicaid cover most critical issues, along with a few other payers. Based on coverage levels, I’d rate them:</br>
    <blockquote>Medicare > Medicaid > Dual Eligible > Blue Cross Blue Shield</blockquote> </br>
   
-* Medicaid typically covers about **95% of costs**, with patients owing a small co-payment, while Medicare covers **around 80%**, requiring patients to pay a bit out-of-pocket. This is mainly due to billing differences—Medicaid bills tend to be lower, whereas Medicare bills are usually higher. These patterns are especially noticeable in the most critical cases the hospital frequently handles.
+* Medicaid typically covers about **95% of costs**, with patients owing a small co-payment, while Medicare covers **around 80%**, requiring patients to pay a bit out-of-pocket. This is mainly due to billing differences—Medicaid bills tend to be lower, whereas Medicare bills are usually higher.</br> 
+  These patterns are especially noticeable in the most **critical cases** the hospital frequently handles. </br>
+  <br>
+  ![payer_02](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payers_02.png) </br>
+  <br>
+  
  
