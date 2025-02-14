@@ -99,6 +99,7 @@ Among them, I found that one or two companies stand out—not only because they 
   ![payer_02](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payers_02.png) </br>
   <br>
  Both **Humana** and **Aetna** provide no coverage for this issue, yet they are still widely preferred by patients. </br>
+We see the same pattern for two types of **heart issues**—Cardiac Arrest and Myocardial Infarction (commonly known as a Heart Attack). Only Medicare and Medicaid provide coverage, while no for-profit insurers do. </br> 
 <br>
  
  
