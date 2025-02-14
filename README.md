@@ -98,5 +98,7 @@ Among them, I found that one or two companies stand out—not only because they 
   <br>
   ![payer_02](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payers_02.png) </br>
   <br>
-  
+ Both **Humana** and **Aetna** provide no coverage for this issue, yet they are still widely preferred by patients. </br>
+<br>
+ 
  
