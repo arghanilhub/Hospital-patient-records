@@ -101,5 +101,9 @@ Among them, I found that one or two companies stand out—not only because they 
  Both **Humana** and **Aetna** provide no coverage for this issue, yet they are still widely preferred by patients. </br>
 We see the same pattern for two types of **heart issues**—Cardiac Arrest and Myocardial Infarction (commonly known as a Heart Attack). Only Medicare and Medicaid provide coverage, while no for-profit insurers do. </br> 
 * In fact, even for common medical occurrences like **normal pregnancy**, for-profit insurance companies like ```UnitedHeathCare```, do not cover procedures associated with it. This includes critical procedures such as vaginal birth or certain types of abortion, which can have significant physical and psychological impacts. </br>
+<br>
+
+![payer_03](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_03.png) </br>
 <br> 
- 
+For low-income families, ```Medicaid``` provides full coverage. Among private insurers, only ```Blue Cross Blue Shield``` offers coverage. And it’s no surprise that Medicare isn’t listed, as it’s exclusively for those aged 65+, which aligns with our data. </br> 
+
