@@ -105,5 +105,5 @@ We see the same pattern for two types of **heart issues**—Cardiac Arrest and M
 
 ![payer_03](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_03.png) </br>
 <br> 
-For low-income families, ```Medicaid``` provides full coverage. Among private insurers, only ```Blue Cross Blue Shield``` offers coverage. And it’s no surprise that Medicare isn’t listed, as it’s exclusively for those aged 65+, which aligns with our data. </br> 
+```Medicaid``` serves as a crucial safety net for BPL families, offering comprehensive coverage. Among private insurers, only ```Blue Cross Blue Shield``` offers coverage. And it’s no surprise that Medicare isn’t listed, as it’s exclusively for those aged 65+, which aligns with our data. </br> 
 
