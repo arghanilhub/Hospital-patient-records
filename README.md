@@ -101,5 +101,6 @@ Among them, I found that one or two companies stand out—not only because they 
  Both **Humana** and **Aetna** provide no coverage for this issue, yet they are still widely preferred by patients. </br>
 We see the same pattern for two types of **heart issues**—Cardiac Arrest and Myocardial Infarction (commonly known as a Heart Attack). Only Medicare and Medicaid provide coverage, while no for-profit insurers do. </br> 
 <br>
- 
+In fact, even for common medical occurrences like **normal pregnancy**, for-profit insurance companies like **UnitedHeathCare**,do not cover procedures associated with it. This includes critical procedures such as vaginal birth or certain types of abortion, which can have significant physical and psychological impacts. </br>
+<br> 
  
