@@ -119,5 +119,5 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 * However, when analyzing the year-over-year cost differences, I noticed **significant fluctuations each year**. This suggests that patient volumes have also varied considerably over time, aligning with these cost shifts. </br>
 <br>
 
-![cost_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/cost_01.png) </br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![cost_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/cost_01.png) </br>
 <br> 
