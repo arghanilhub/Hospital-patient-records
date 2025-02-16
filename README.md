@@ -109,5 +109,5 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 * It’s not that they have only recently started providing full coverage—their **track record has been consistently strong over the years**. I verified their payout rates across multiple years, and the data confirms their steady commitment, which likely strengthens patient trust. </br>
 <br>
 
-![payer_04](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_04.png) </br>
+![payer_04](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_04_new.png) </br>
 <br> 
