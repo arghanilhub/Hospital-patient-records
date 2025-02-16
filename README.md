@@ -111,3 +111,6 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 
 ![payer_04](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_04_new.png) </br>
 <br> 
+
+**2. Revenue Trends & Operational Efficiency:** </br> 
+<br> 
