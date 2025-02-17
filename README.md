@@ -121,3 +121,9 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![cost_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/cost_01.png) </br>
 <br> 
+* Initially, between 2011 and 2013, patient influx was relatively low, but a clear upward trend followed, indicating a **steady increase in visits**. Meanwhile, the average **cost per visit remained consistently high** for most of the period, though a noticeable dip appeared after 2020. </br>
+<br>
+
+![cost_02]() </br> 
+<br> 
+``` Earlier, when patient influx was low—particularly during 2011-2013 and again from 2017-2019—visitation costs remained high. However, more recently, even with lower patient influx after 2021, we managed to keep visitation costs lower than our average. This indicates a shift toward a more efficient model, where we’ve been able to provide services at reduced costs while maintaining a high patient influx, as seen in 2020-2021. ``` 
