@@ -114,7 +114,7 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 
 **2. Revenue Trends & Operational Efficiency:** </br> 
 <br> 
-* Looking at the hospital's revenue trends, we've had **27,891 patient visits** from ```2011 to 2022```, with an average revenue of **$3664.76 per visit**. On a yearly basis, the hospital's total revenue averages around $84,595,31.29. Some years stand out - ```2014 saw the highest influx of patients```, while ```2012 was the year with the highest revenue```. </br>
+* Looking at the hospital's revenue trends, we've had **27,891 patient visits** from ```2011 to 2022```, with an average revenue of **$3664.76 per visit**. On a yearly basis, the hospital's total revenue averages around $84,595,31.29. Some years stand out, like in ```2014, when we saw the highest influx of patients```, while ```2012 was the year with the highest revenue```. </br>
 
 * However, when analyzing the year-over-year cost differences, I noticed **significant fluctuations each year**. This suggests that patient volumes have also varied considerably over time, aligning with these cost shifts. </br>
 <br>
