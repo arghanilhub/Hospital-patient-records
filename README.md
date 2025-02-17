@@ -125,5 +125,10 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 <br>
 
 ![cost_02]() </br> 
+<br>
+<blockquote>
+  Earlier, when patient influx was low—particularly during <strong>2011-2013</strong> and again from <strong>2017-2019</strong>—visitation costs remained high. However, more recently, even with lower patient influx <strong>after 2021</strong>, we managed to keep visitation costs lower than our average. This indicates a shift toward a <strong>more efficient model</strong>, where we’ve been able to provide services at reduced costs while maintaining a <strong>high patient influx, as seen in 2020-2021.</strong> 
+</blockquote> </br> 
 <br> 
-``` Earlier, when patient influx was low—particularly during 2011-2013 and again from 2017-2019—visitation costs remained high. However, more recently, even with lower patient influx after 2021, we managed to keep visitation costs lower than our average. This indicates a shift toward a more efficient model, where we’ve been able to provide services at reduced costs while maintaining a high patient influx, as seen in 2020-2021. ``` 
+
+  
