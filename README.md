@@ -73,7 +73,7 @@ data source : [syntheticMass](https://synthea.mitre.org)  </br>
 <h3>Executive Summary</h3>
 <hr>
 
-hjgdss </br> 
+The analysis uncovers key patterns in ```hospital operations```, ```patient trends```, and ```financial insights``` from **2011 to 2022**. Insurance remains the primary payer, with private coverage leading. Revenue trends show a shift toward cost-efficient care despite fluctuating patient volumes. Common health issues include rising mental health cases, critical conditions like heart disease and cancer. Many patients return for recurring heart and lung issues, often with multiple major concerns. These findings provide a deeper look into hospital services, efficiency, and patient needs. </br> 
 <br> 
 
 <h3>Detailed findinds</h3>
