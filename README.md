@@ -133,7 +133,8 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 
 **3. Prevalent Health Issues, Common Procedures & Cost Insights** : </br>   
 <br> 
-* From my analysis, we see a **high number of hospital visits** related to ```mental health issues```, with depression, anxiety, and substance abuse (including drug and alcohol-related cases) being the most frequent. Apart from mental health concerns, we see a significant number of cases **requiring surgical intervention** —such as ```breast cancer, heart diseases, and lung cancer```. Additionally, the hospital provides essential services for maternity care, handling both pre- and post-pregnancy procedures. </br> 
+* From my analysis, we see a **high number of hospital visits** related to ```mental health issues```, with depression, anxiety, and substance abuse (including drug and alcohol-related cases) being the most frequent. Apart from mental health concerns, we see a significant number of cases **requiring surgical intervention** —such as ```breast cancer, heart diseases, and lung cancer```. Additionally, the hospital provides essential services for maternity care, handling both pre- and post-pregnancy procedures. </br>
+  
 * For certain medical issues, the **hospital has performed a wide range of procedures**, and their frequency seems to align with the base cost. Take ```Breast Cancer```(Malignant neoplasm of breast) as an example—here, I observed that the hospital conducted multiple types of procedures, but the number of times each procedure was performed corresponds to its cost. **Lower-cost procedures**, like ```Mammography(X-rays)```, were carried out far more frequently, while **high-cost, critical surgeries** like ```Lumpectomy of breast``` were performed on fewer patients. This pattern suggests that less invasive and more affordable treatments are prioritized or required more often, while complex, high-cost procedures are reserved for severe cases. </br>
 <br>
 
