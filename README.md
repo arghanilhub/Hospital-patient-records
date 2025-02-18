@@ -150,3 +150,14 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![procedure_03](https://github.com/arghanilhub/Hospital-patient-records/blob/main/procedure_03.png) </br> 
 <br> 
+
+**4. Repeat encounters and no of days stayed per encounter**: </br> 
+<br> 
+* From 2011 to 2022, the average **hospital stay per visit** was just ```0.3 days```, meaning most patients didn’t even stay a full day—indicating efficient service. However, two patients had extreme cases, staying for six years, though no data exists on their condition. In fact, the top five longest stays lack reason data. Among documented cases, ```breast cancer (1 year)```, ```sepsis (1 month)```, and ```third-degree burns (16 days)``` had the **longest single-visit stays**. </br>
+
+* When analyzing **repeat encounters**, we found that patients often return for the **same condition**, especially those with **heart issues** like ```Atrial Fibrillation```, ```Myocardial Infarction```, and Stroke, or **respiratory infections** like ```Acute Bronchitis```. On average, patients are treated for at least two major issues. Out of 974 patient records, 780 had serious conditions, and 290 of them dealt with two different major issues. </br> 
+
+* The hospital **primarily handles** ```outpatient encounters```, indicating a strong focus on non-extended care visits. **However, it also provides treatment for severe conditions**, as seen in cases requiring prolonged hospitalization for critical issues like breast cancer, sepsis, and third-degree burns. </br>
+<br>
+
+
