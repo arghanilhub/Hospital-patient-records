@@ -160,4 +160,5 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 * The hospital **primarily handles** ```outpatient encounters```, indicating a strong focus on non-extended care visits. **However, it also provides treatment for severe conditions**, as seen in cases requiring prolonged hospitalization for critical issues like breast cancer, sepsis, and third-degree burns. </br>
 <br>
 
-
+![patient_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/patient_01.png) </br> 
+<br> 
