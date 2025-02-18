@@ -147,3 +147,6 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 <br> 
 * The **highest revenue-generating procedures** largely align with the most common patient issues. However, revenue isn’t solely driven by frequency—if it were, mental health-related procedures would dominate. Instead, it’s a balance between how often a procedure is performed and its base cost. From this perspective, ```heart-related procedures``` emerge as the top revenue contributors, given their high cost and significant occurrence. </br>
 <br>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![procedure_03](https://github.com/arghanilhub/Hospital-patient-records/blob/main/procedure_03.png) </br> 
+<br> 
