@@ -139,3 +139,8 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 
 ![procedure_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/procedure_01.png) </br> 
 <br> 
+* If we look at ```depression``` cases, **they’ve been rising consistently since 2011**, with no signs of slowing down. On the other hand, ```breast cancer``` cases have shown fluctuations over the years. While we saw a noticeable **surge around 2018-2019, it was followed by a sharp decline**, indicating a potential downward shift in recent years. This contrast highlights how some health concerns are continuously escalating, while others may be seeing improvements. </br>
+<br>
+
+![procedure+02](https://github.com/arghanilhub/Hospital-patient-records/blob/main/procedure_02.png) </br>
+<br> 
