@@ -131,5 +131,6 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 </blockquote> </br> 
 <br> 
 
-**3.Prevalent Health Issues, Common Procedures & Cost Insights** : </br>   
+**3. Prevalent Health Issues, Common Procedures & Cost Insights** : </br>   
 <br> 
+* From my analysis, we see a **high number of hospital visits** related to ```mental health issues```, with depression, anxiety, and substance abuse (including drug and alcohol-related cases) being the most frequent. Apart from mental health concerns, we see a significant number of cases **requiring surgical intervention** —such as ```breast cancer, heart diseases, and lung cancer```. Additionally, the hospital provides essential services for maternity care, handling both pre- and post-pregnancy procedures. </br> 
