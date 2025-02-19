@@ -79,7 +79,7 @@ The analysis uncovers key patterns in ```hospital operations```, ```patient tren
 <h3>Detailed findinds</h3>
 <hr> 
 
-**1. Procedure Cost  VS  Payer Coverage** </br> 
+**01. Procedure Cost  VS  Payer Coverage** </br> 
 <br>
 We have patient records linked to **9 different insurance companies**. </br> 
 Among them, I found that one or two companies stand out—not only because they cover the **highest number of procedures** performed at the hospital but also because they are the **preferred choice** for most patients. Interestingly, these insurers are primarily non-profit organizations operated by the government. </br> 
@@ -112,7 +112,7 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 ![payer_04](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_04_new.png) </br>
 <br> 
 
-**2. Revenue Trends & Operational Efficiency:** </br> 
+**02. Revenue Trends & Operational Efficiency:** </br> 
 <br> 
 * Looking at the hospital's revenue trends, we've had **27,891 patient visits** from ```2011 to 2022```, with an average revenue of **$3664.76 per visit**. On a yearly basis, the hospital's total revenue averages around $84,595,31.29. Some years stand out, like in ```2014, when we saw the highest influx of patients```, while ```2012 was the year with the highest revenue```. </br>
 
@@ -131,7 +131,7 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 </blockquote> </br> 
 <br> 
 
-**3. Prevalent Health Issues, Common Procedures & Cost Insights** : </br>   
+**03. Prevalent Health Issues, Common Procedures & Cost Insights** : </br>   
 <br> 
 * From my analysis, we see a **high number of hospital visits** related to ```mental health issues```, with depression, anxiety, and substance abuse (including drug and alcohol-related cases) being the most frequent. Apart from mental health concerns, we see a significant number of cases **requiring surgical intervention** —such as ```breast cancer, heart diseases, and lung cancer```. Additionally, the hospital provides essential services for maternity care, handling both pre- and post-pregnancy procedures. </br>
   
@@ -151,7 +151,7 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![procedure_03](https://github.com/arghanilhub/Hospital-patient-records/blob/main/procedure_03.png) </br> 
 <br> 
 
-**4. Repeat encounters and no of days stayed per encounter**: </br> 
+**04. Repeat encounters and no of days stayed per encounter**: </br> 
 <br> 
 * From 2011 to 2022, the average **hospital stay per visit** was just ```0.3 days```, meaning most patients didn’t even stay a full day—indicating efficient service. However, two patients had extreme cases, staying for six years, though no data exists on their condition. In fact, the top five longest stays lack reason data. Among documented cases, ```breast cancer (1 year)```, ```sepsis (1 month)```, and ```third-degree burns (16 days)``` had the **longest single-visit stays**. </br>
 
@@ -187,3 +187,11 @@ Here are few recommandation I will provide on those four sub-topics, which I thi
 * Additionally, ```frequent readmissions for heart and lung conditions``` suggest potential gaps in treatment effectiveness—hospital management should **assess why these issues aren’t fully resolved in the first visit**. </br>
 * On a positive note, patients returning for different concerns indicate trust in the hospital’s services, presenting an opportunity to **implement patient retention programs**. </br>
 <br>
+<br>
+
+<h3>Project Process and Challenges:</h3> 
+<hr> 
+Before going into the process descriptions, these are the ```SQL CODES``` I have used to answer my question. The code files are presented in sequence format of the sub-groups. </br> 
+<br>
+
+* payer coverage files ```(01)``` : [payer_coverage_percentage_share]() , [payer_Patient_Count](), [payer_Procedure_count](), [payer_Trend](), [payer_Medicare_Age_group]() </br>   
