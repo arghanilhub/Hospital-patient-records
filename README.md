@@ -6,17 +6,20 @@ Analysis conducted on synthetic data of approximately 1,000 patients from **Mass
 
 <h3>CONTENTS </h3> 
 <hr> 
-
-* <a href="#Situation">Situation </br> 
-* Data Structure </br> 
-* Executive Summary </br>
-* Detailed Findings </br>
-* Procedure Cost  VS  Payer Coverage </br>
-* Revenue Trends & Operational Efficiency </br>
-* Prevalent Health Issues, Common Procedures & Cost Insights </br>
-* Repeat encounters and no of days stayed per encounter </br> 
-* Recommandations </br>
-* Project Process & Challenges </br> 
+<ol>
+<li><a href="#Situation">Situation</a></li> </br> 
+<li><a href="#Data-Structure">Data Structure</a></li> </br> 
+<li><a href="#Executive-Summary">Executive Summary</a></li> </br>
+<li><a href="#Detailed-Findings">Detailed Findings</a></li> </br>
+<ul>
+<li><a href="#Procedure-Cost-VS-Payer-Coverage">Procedure Cost  VS  Payer Coverage</a></li> </br>
+<li><a href="#Revenue-Trends-&-Operational-Efficiency">Revenue Trends & Operational Efficiency</a></li> </br>
+<li><a href="#Prevalent-Health-Issues-Common-Procedures-&-Cost-Insights">Prevalent Health Issues, Common Procedures & Cost Insights</a></li> </br>
+<li><a href="#Repeat-encounters-and-no-of-days-stayed-per-encounter">Repeat encounters and no of days stayed per encounter</a></li> </br>
+</ul> 
+<li><a href="#Recommandations">Recommandations</a></li> </br>
+<li><a href="#Project-Process-&-Challenges">Project Process & Challenges</a></li> </br> 
+</ol>  
 <br>
 
 <h3 id="Situation">Situation</h3> 
@@ -44,7 +47,7 @@ By uncovering key patterns in their patient records, hospital can make data-driv
 :white_check_mark: Re-admission with same issue, could indicate gaps in care; if different, it may suggest strong patient trust in the hospital. </br>
 <br> 
 
-<h3>Data Structure</h3> 
+<h3 id="Data-Structure">Data Structure</h3> 
 <hr> 
 
 The database consists of **five interconnected tables** categorized under healthcare, time series, and geospatial data. It contains detailed information on patient demographics, insurance coverage, medical encounters, and procedures recorded at Massachusetts General Hospital from 2011 to 2022. Each table captures a distinct aspect of hospital operations, allowing for comprehensive analysis. </br> 
@@ -75,13 +78,13 @@ Here the hospital name and its location details are being provided. </br>
 data source : [syntheticMass](https://synthea.mitre.org)  </br> 
 <br> 
 
-<h3>Executive Summary</h3>
+<h3 id="Executive-Summary">Executive Summary</h3>
 <hr>
 
 The analysis uncovers key patterns in ```hospital operations```, ```patient trends```, and ```financial insights``` from **2011 to 2022**. Insurance remains the primary payer, with private coverage leading. Revenue trends show a shift toward cost-efficient care despite fluctuating patient volumes. Common health issues include rising mental health cases, critical conditions like heart disease and cancer. Many patients return for recurring heart and lung issues, often with multiple major concerns. These findings provide a deeper look into hospital services, efficiency, and patient needs. </br> 
 <br> 
 
-<h3>Detailed findinds</h3>
+<h3 id="Detailed-Findings">Detailed findinds</h3>
 <hr> 
 
 **01. Procedure Cost  VS  Payer Coverage** </br> 
