@@ -216,3 +216,7 @@ To ensure accurate *year-wise* trend analysis, I extracted the **year** from the
 
  These transformations ensured smooth data integration into MySQL while maintaining consistency and accuracy for trend analysis. </br> 
  
+**Complexities with the Procedure Table :** </br> 
+
+* The **Procedure** table was the most challenging to work with due to its complex nature. Each patient encounter can have multiple procedures, further detailed by date and time, increasing the chances of **duplicate records**. I kept this possibility in mind throughout my analysis to ensure accuracy. </br>
+* Although a **primary key** wasn’t needed to answer my questions, identifying one was difficult due to the table’s structure. I eventually found that a **combination of five columns** uniquely defines each row. This insight was crucial for maintaining data integrity during analysis. </br> 
