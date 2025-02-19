@@ -215,6 +215,7 @@ To ensure accurate *year-wise* trend analysis, I extracted the **year** from the
 * **Table Creation & Import:** Declared data types in **CREATE TABLE** statements before loading data via **LOAD DATA INFILE**, preventing type mismatches. </br>
 
  These transformations ensured smooth data integration into MySQL while maintaining consistency and accuracy for trend analysis. </br> 
+ <br> 
  
 **Complexities with the Procedure Table :** </br> 
 
