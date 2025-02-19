@@ -216,6 +216,7 @@ To ensure accurate *year-wise* trend analysis, I extracted the **year** from the
 * **Table Creation & Import:** Declared data types in **CREATE TABLE** statements before loading data via **LOAD DATA INFILE**, preventing type mismatches. </br>
 
  These transformations ensured smooth data integration into MySQL while maintaining consistency and accuracy for trend analysis. </br> 
+ 
  You can also check out this SQL file - consists of create table statements along with load data Infile : [data loading file](https://github.com/arghanilhub/Hospital-patient-records/blob/main/create_table_statements_hospital.sql) </br> 
  <br> 
  
