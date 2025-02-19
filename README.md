@@ -192,7 +192,7 @@ Here are few recommandation I will provide on those four sub-topics, which I thi
 <h3>Project Process and Challenges:</h3> 
 <hr> 
 
-Before going into the process descriptions, these are the ```SQL CODES``` I have used to answer my question. The code files are presented in sequence format of the sub-groups. </br> 
+The ```SQL CODES``` I have used to answer my questions. The code files are presented in sequence format of the sub-groups. </br> 
 <br>
 
 * payer coverage files ```(01)``` : [coverage_share](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_Coverage_percentage_01.sql) ,  [Patient_Count](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_patientsCount_01.sql),  [Procedure_Count](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_proceduresCount_01.sql),  [payer_trend](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_trend_queries_hospital_01.sql),  [Medicare_Age_group](https://github.com/arghanilhub/Hospital-patient-records/blob/main/payer_Medicare_AgeGroup_01.sql) </br>
@@ -204,3 +204,4 @@ Before going into the process descriptions, these are the ```SQL CODES``` I have
 * Repeat encounters ```(04)``` :  [repeat encounters]( https://github.com/arghanilhub/Hospital-patient-records/blob/main/repeat_encounters_04.sql)  </br>
 <br>
 
+Data transformation and ETL processs : 
