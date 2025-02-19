@@ -204,4 +204,15 @@ The ```SQL CODES``` I have used to answer my questions. The code files are prese
 * Repeat encounters ```(04)``` :  [repeat encounters]( https://github.com/arghanilhub/Hospital-patient-records/blob/main/repeat_encounters_04.sql)  </br>
 <br>
 
-Data transformation and ETL processs : 
+**Data transformation and ETL processs** :</br> 
+
+To ensure accurate *year-wise* trend analysis, I extracted the **year** from the **datetime** column in both the *Encounters* and *Procedure* tables. The transformation process included the following steps: </br> 
+
+* **Date Segregation:** Used Excel’s "Text to Columns" feature to separate **date** and **time** into different columns. </br>
+* **Data Type Adjustment:** Converted the extracted year column to the **DATE** data type to avoid mismatches during database import. </br> 
+* **File Format Conversion:** Saved the cleaned dataset as **CSV** (since MySQL does not support direct Excel file imports). </br> 
+* **Handling Blank Cells:** Replaced blank values with **NULL**, as required by RDBMS standards. **Used user-defined variables (@variable_name)** and the **SET** operator in ```LOAD DATA INFILE``` to ensure blanks were correctly converted to NULL upon import. </br>  
+* **Table Creation & Import:** Declared data types in **CREATE TABLE** statements before loading data via **LOAD DATA INFILE**, preventing type mismatches. </br>
+
+ These transformations ensured smooth data integration into MySQL while maintaining consistency and accuracy for trend analysis. </br> 
+ 
