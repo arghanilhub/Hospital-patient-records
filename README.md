@@ -11,7 +11,12 @@ Analysis conducted on synthetic data of approximately 1,000 patients from **Mass
 * Data Structure </br> 
 * Executive Summary </br>
 * Detailed Findings </br>
+* Procedure Cost  VS  Payer Coverage </br>
+* Revenue Trends & Operational Efficiency </br>
+* Prevalent Health Issues, Common Procedures & Cost Insights </br>
+* Repeat encounters and no of days stayed per encounter </br> 
 * Recommandations </br>
+* Project Process & Challenges </br> 
 <br>
 
 <h3>Situation</h3> 
