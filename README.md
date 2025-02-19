@@ -7,7 +7,7 @@ Analysis conducted on synthetic data of approximately 1,000 patients from **Mass
 <h3>CONTENTS </h3> 
 <hr> 
 
-* Situation </br> 
+* <a href="#Situation">Situation </br> 
 * Data Structure </br> 
 * Executive Summary </br>
 * Detailed Findings </br>
@@ -19,7 +19,7 @@ Analysis conducted on synthetic data of approximately 1,000 patients from **Mass
 * Project Process & Challenges </br> 
 <br>
 
-<h3>Situation</h3> 
+<h3 id="Situation">Situation</h3> 
 <hr> 
 
 Massachusetts General Hospital has been observing a steady increase in patient admissions over the past decade, and hospital administrators are keen on understanding key trends in their **patient population**, **medical procedures**, and **insurance coverage**. As a data analyst, I have been brought in to conduct a deep dive into the hospital’s records from 2011 to 2022. </br> 
