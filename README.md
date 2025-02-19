@@ -6,20 +6,13 @@ Analysis conducted on synthetic data of approximately 1,000 patients from **Mass
 
 <h3>CONTENTS </h3> 
 <hr> 
-<ol>
+
 <li><a href="#Situation">Situation</a></li> </br> 
 <li><a href="#Data-Structure">Data Structure</a></li> </br> 
 <li><a href="#Executive-Summary">Executive Summary</a></li> </br>
 <li><a href="#Detailed-Findings">Detailed Findings</a></li> </br>
-<ul>
-<li><a href="#Procedure-Cost-VS-Payer-Coverage">Procedure Cost  VS  Payer Coverage</a></li> </br>
-<li><a href="#Revenue-Trends-&-Operational-Efficiency">Revenue Trends & Operational Efficiency</a></li> </br>
-<li><a href="#Prevalent-Health-Issues-Common-Procedures-&-Cost-Insights">Prevalent Health Issues, Common Procedures & Cost Insights</a></li> </br>
-<li><a href="#Repeat-encounters-and-no-of-days-stayed-per-encounter">Repeat encounters and no of days stayed per encounter</a></li> </br>
-</ul> 
 <li><a href="#Recommandations">Recommandations</a></li> </br>
-<li><a href="#Project-Process-&-Challenges">Project Process & Challenges</a></li> </br> 
-</ol>  
+<li><a href="#Project-Process-&-Challenges">Project Process & Challenges</a></li> </br>   
 <br>
 
 <h3 id="Situation">Situation</h3> 
@@ -171,7 +164,7 @@ Medicaid serves as a crucial safety net for BPL families, offering comprehensive
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![patient_01](https://github.com/arghanilhub/Hospital-patient-records/blob/main/patient_01.png) </br> 
 <br> 
 
-<H3>Recommandations</H3> 
+<H3 id="Recommandations">Recommandations</H3> 
 <hr> 
 Here are few recommandation I will provide on those four sub-topics, which I think it might help hospital admisnistration to manage their survices in more better way  : </br> 
 <br> 
@@ -197,7 +190,7 @@ Here are few recommandation I will provide on those four sub-topics, which I thi
 <br>
 <br>
 
-<h3>Project Process and Challenges:</h3> 
+<h3 id="Project-Process-&-Challenges">Project Process and Challenges:</h3> 
 <hr> 
 
 The ```SQL CODES``` I have used to answer my questions. The code files are presented in sequence format of the sub-groups. </br> 
